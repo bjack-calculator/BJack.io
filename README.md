@@ -3,7 +3,9 @@
 **BJack.io** is a blackjack calculator for **expected value (EV), blackjack odds, basic strategy, card counting and real-time shoe tracking**.
 
 Unlike a static blackjack strategy chart, BJack calculates decisions using the **actual cards remaining in the shoe**. Enter cards as they appear, and the calculator updates the shoe composition, probabilities, count and expected value.
-
+<p align="center">
+  <img src="./Dashboard.png" alt="BJack.io Blackjack Calculator" width="900">
+</p>
 ## Features
 
 ### Blackjack EV & Strategy Calculator
