@@ -38,7 +38,9 @@ Calculate **dealer and player probabilities**, including dealer **17–21 and bu
 Open the [**Blackjack Calculator**](https://bjack.io/)
 
 ## Blackjack Basic Strategy Chart
-
+<p align="center">
+  <img src="./Basic_Strategy_Chart.png" alt="Basic Strategy Chart" width="900">
+</p>
 The BJack.io [**Basic Strategy Chart**](https://bjack.io/blackjack-basic-strategy-chart) generates the recommended **Hit, Stand, Double and Split** decisions for your selected game configuration.
 
 Choose the **number of decks and table rules**, including **H17 / S17, Double After Split (DAS), Surrender, Resplitting and blackjack payouts**. The chart supports **1, 2, 4, 6 and 8 decks**.
