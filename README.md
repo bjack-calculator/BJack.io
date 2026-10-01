@@ -5,7 +5,7 @@
 Unlike a static blackjack strategy chart, BJack calculates decisions using the **actual cards remaining in the shoe**. Enter cards as they appear, and the calculator updates the shoe composition, probabilities, count and expected value. [**Visit BJack.io**](https://bjack.io/)
 
 <p align="center">
-  <img src="./Dashboard.png" alt="BJack.io Blackjack Calculator and Basic Strategy Chart" width="900">
+  <img src="./Dashboard.png" alt="BJack.io Blackjack Calculator and Basic Strategy Chart" width="500">
 </p>
 
 
@@ -38,9 +38,11 @@ Calculate **dealer and player probabilities**, including dealer **17–21 and bu
 Open the [**Blackjack Calculator**](https://bjack.io/)
 
 ## Blackjack Basic Strategy Chart
+
 <p align="center">
-  <img src="./Basic_Strategy_Chart.png" alt="Basic Strategy Chart" width="900">
+  <img src="./Basic_Strategy_Chart.png" alt="Basic Strategy Chart" width="500">
 </p>
+
 The BJack.io [**Basic Strategy Chart**](https://bjack.io/blackjack-basic-strategy-chart) generates the recommended **Hit, Stand, Double and Split** decisions for your selected game configuration.
 
 Choose the **number of decks and table rules**, including **H17 / S17, Double After Split (DAS), Surrender, Resplitting and blackjack payouts**. The chart supports **1, 2, 4, 6 and 8 decks**.
@@ -50,3 +52,19 @@ BJack uses the same calculation engine for its strategy, EV and probability calc
 The chart is designed specifically for **blackjack players who want to learn and practice card counting mentally**. It provides a simple and focused way to study blackjack strategy, understand how different rules affect decisions, and practice making decisions without relying on a physical calculator at the table.
 
 The tool is **completely free to use** and features a **clean, comfortable color scheme** designed to make the strategy chart easy to read and study for extended periods.
+
+## Start with BJack.io
+
+Learn **blackjack basic strategy**, practice **card counting**, and explore **blackjack odds, EV and shoe composition** with a free set of interactive tools.
+
+<div align="center">
+
+<a href="https://bjack.io/">♠ Open Blackjack Calculator →</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://bjack.io/blackjack-basic-strategy-chart">♣ View Basic Strategy Chart →</a>
+
+</div>
+
+<p align="center">
+  <strong>BJack.io</strong> · Free Blackjack Calculator · Basic Strategy · Card Counting · Shoe Tracking
+</p>
